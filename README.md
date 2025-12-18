@@ -6,7 +6,7 @@
 🎓 Data Science student<br><br>📊 Interested in Machine Learning & NLP<br><br>🐍 Skilled in Python, Pandas, NumPy, Seaborn, SQL, TensorFlow<br><br>🚀 Working on real-world data science projects<br><br>📚 Continuously learning and improving skills
 
 
-## 🌐 Socials:
+## 🌐 Contect Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/akash-kumar-4627a2324) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akashkumarkutba01@gmail.com) 
 
 # 💻 Tech Stack:
